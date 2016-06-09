@@ -1,0 +1,9 @@
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\obj\Debug\GBCE.StockCalculator.Service.csprojResolveAssemblyReference.cache
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\bin\Debug\GBCE.StockCalculator.Service.dll
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\bin\Debug\GBCE.StockCalculator.Service.pdb
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\bin\Debug\GBCE.StockCalculator.DataStore.dll
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\bin\Debug\GBCE.StockCalculator.DataStore.pdb
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\obj\Debug\GBCE.StockCalculator.Service.dll
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\obj\Debug\GBCE.StockCalculator.Service.pdb
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\bin\Debug\GBCE.StockCalculator.Utility.dll
+c:\users\purnendu\documents\visual studio 2015\Projects\GBCE.StockCalculator.Main\GBCE.StockCalculator.Service\bin\Debug\GBCE.StockCalculator.Utility.pdb
